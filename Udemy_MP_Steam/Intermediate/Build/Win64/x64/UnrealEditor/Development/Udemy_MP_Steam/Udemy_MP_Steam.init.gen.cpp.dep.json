@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\unrealeditor\\inc\\udemy_mp_steam\\uht\\udemy_mp_steam.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\x64\\udemy_mp_steameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemy_mp_steam\\definitions.udemy_mp_steam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

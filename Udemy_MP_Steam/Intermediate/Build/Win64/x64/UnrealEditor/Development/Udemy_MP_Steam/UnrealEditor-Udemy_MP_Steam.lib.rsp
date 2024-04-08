@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Udemy_MP_Steam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\Udemy_MP_SteamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_Steam.init.gen.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_SteamCharacter.gen.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_SteamGameMode.gen.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_Steam.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_SteamCharacter.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Udemy_MP_SteamGameMode.cpp.obj"
+"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\Default.rc2.res"
+/OUT:"D:\Dev\Unreal Engine\Udemy_MP_Steam\Intermediate\Build\Win64\x64\UnrealEditor\Development\Udemy_MP_Steam\UnrealEditor-Udemy_MP_Steam.lib"

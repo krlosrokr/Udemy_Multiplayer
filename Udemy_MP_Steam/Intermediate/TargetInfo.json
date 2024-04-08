@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Udemy_MP_Steam",
+			"Path": "..\\Source\\Udemy_MP_Steam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Udemy_MP_SteamEditor",
+			"Path": "..\\Source\\Udemy_MP_SteamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

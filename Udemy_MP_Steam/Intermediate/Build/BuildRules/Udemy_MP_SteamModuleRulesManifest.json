@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Dev\\Unreal Engine\\Udemy_MP_Steam\\Source\\Udemy_MP_Steam\\Udemy_MP_Steam.Build.cs",
+		"D:\\Dev\\Unreal Engine\\Udemy_MP_Steam\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"D:\\Dev\\Unreal Engine\\Udemy_MP_Steam\\Source\\Udemy_MP_Steam.Target.cs",
+		"D:\\Dev\\Unreal Engine\\Udemy_MP_Steam\\Source\\Udemy_MP_SteamEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

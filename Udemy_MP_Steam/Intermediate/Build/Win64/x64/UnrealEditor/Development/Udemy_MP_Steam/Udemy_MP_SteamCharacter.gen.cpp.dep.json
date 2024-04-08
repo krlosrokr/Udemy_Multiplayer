@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\unrealeditor\\inc\\udemy_mp_steam\\uht\\udemy_mp_steamcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\x64\\udemy_mp_steameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udemy_mp_steam\\definitions.udemy_mp_steam.h",
+            "d:\\dev\\unreal engine\\udemy_mp_steam\\source\\udemy_mp_steam\\udemy_mp_steamcharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "d:\\dev\\unreal engine\\udemy_mp_steam\\intermediate\\build\\win64\\unrealeditor\\inc\\udemy_mp_steam\\uht\\udemy_mp_steamcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
